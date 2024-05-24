@@ -33,3 +33,5 @@ if os.path.isfile(filename):
 else:
     print('filename does not exist')
 
+#after fatching data u need to display them on the console
+
